@@ -1,0 +1,40 @@
+Here's an example of an application for sick leave:
+
+**Application for Sick Leave**
+
+**Employee Name:** [Your Name]
+**Employee ID:** [Your Employee ID]
+**Date of Absence:** [Date of Absence]
+**Duration of Absence:** [Number of days or dates of absence]
+
+**Reason for Absence:**
+
+I am writing to inform you that I will be taking a sick leave from [Date of Absence] to [Date of Return] due to [briefly mention the reason for absence, e.g. illness, injury, medical condition, etc.].
+
+**Medical Certificate:**
+
+I have attached a medical certificate from my doctor, which confirms my illness and recommends that I take [number] days of rest. The doctor's note is dated [Date of Medical Certificate].
+
+**Impact on Work:**
+
+I have made arrangements to complete all my tasks and ensure a smooth transition of my work before my leave. I will be available by email if any urgent matters arise during my absence.
+
+**Contact Information:**
+
+If you need to reach me during my leave, please contact me at [Your Email Address] or [Your Phone Number].
+
+**Acknowledgement:**
+
+I understand that my absence may cause some inconvenience, and I apologize for any disruption this may cause. I will do my best to minimize the impact of my absence on my work and colleagues.
+
+**Signature:**
+
+I hereby confirm that the information provided is accurate and true to the best of my knowledge.
+
+**Date:** [Date of Application]
+
+**Enclosures:**
+
+* Medical Certificate
+
+Please note that the format and content of the application may vary depending on your company's policies and procedures. It's always a good idea to check with your HR department or supervisor to ensure you're following the correct process.
